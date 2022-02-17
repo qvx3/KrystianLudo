@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Gracz">
+    <Position X="5.75" Y="5.5" Width="3" />
+    <AssociationLine Name="start" Type="std::vector&lt;_Ty, _Ax&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="-0.598" Y="1.122" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <AssociationLine Name="meta" Type="std::vector&lt;_Ty, _Ax&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.162" Y="1.164" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AoAACAAABAAAAIAgAAwAAAAggAAABAAAAAEAQADAICA=</HashCode>
+      <FileName>gracz.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="start" />
+      <Field Name="meta" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Pion">
+    <Position X="9" Y="5.25" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Pion::Stan">
+        <TypeIdentifier>
+          <NewMemberFileName>Pion.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>BAAIgAAAAAEQAAAJAACAAAAACAAAAAAABBAAAAAAAgA=</HashCode>
+      <FileName>pion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Plansza">
+    <Position X="0.5" Y="0.5" Width="5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Plansza::PictureBoxType">
+        <TypeIdentifier>
+          <NewMemberFileName>Plansza.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <AssociationLine Name="gracze" Type="std::vector&lt;_Ty, _Ax&gt;">
+      <MemberNameLabel ManuallyPlaced="true">
+        <Position X="0.298" Y="-0.305" />
+      </MemberNameLabel>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>MIAAICAgBkAAgAAgggAAgAAJsAAAAABgQEAEQAQAMOg=</HashCode>
+      <FileName>plansza.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="gracze" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Sox">
+    <Position X="8.75" Y="0.5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Sox::Flag">
+        <TypeIdentifier>
+          <NewMemberFileName>Sox.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAACAAAAAAIgAAAAAAABAAQAAQAAoAAAAAAQAAA=</HashCode>
+      <FileName>sox.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="std::vector&lt;_Ty, _Ax&gt;" Collapsed="true">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAEEAEqCJBEAUAAAKMIAwISAgQESAoAzQEAgQAEAAI=</HashCode>
+      <FileName>c:\program files (x86)\microsoft visual studio 9.0\vc\include\vector</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
