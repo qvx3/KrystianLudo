@@ -1,3 +1,5 @@
 # KrystianLudo
+
  WinForms C++ Game with Sounds
-[Windows XP Style](screenshots/skinModern.png)
+ 
+[Windows XP Style](screenshots\skinModern.png)
