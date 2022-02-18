@@ -2,13 +2,13 @@
 
 ## A demonstration of my programming skills in winter 2020/2021.
 
-[Description of the original board game](https://en.wikipedia.org/wiki/Ludo_(board_game)
+[Description of the original board game](https://en.wikipedia.org/wiki/Ludo_(board_game))
 
  <!---
   markdown picture syntax
 ![](screenshots/)
   example
-![Windows XP-- Skin](https://github.com/qvx3/KrystianLudo/blob/main/screenshots/skinModern.png)
+![Windows XP Skin](https://github.com/qvx3/KrystianLudo/blob/main/screenshots/skinModern.png)
 -->
 
 ![Windows XP Skin](screenshots/skinModern.png)
