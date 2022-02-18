@@ -1,6 +1,6 @@
 # KrystianLudo
 
- WinForms C++ Game with Sounds
+## WinForms C++ Game with Sounds.
  
  <!---
   markdown picture syntax
@@ -11,4 +11,8 @@
 
 ![Windows XP Skin](screenshots/skinModern.png)
 
-![Visual Studio 2008 code 1](screenshots/skinModern.png)
+Fig 1: 'Windows XP' Skin
+
+![Visual Studio 2008 code 1](screenshots/vs2008-1.png)
+
+Fig 2: Properties of map elements
