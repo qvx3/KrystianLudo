@@ -1,6 +1,6 @@
-# KrystianLudo
+# KrystianLudo - WinForms C++ Game with Sounds.
 
-## WinForms C++ Game with Sounds.
+## A demonstration of my programming skills in winter 2020/2021.
  
  <!---
   markdown picture syntax
